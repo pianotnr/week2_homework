@@ -1,0 +1,68 @@
+
+body {
+    background-image: url('images/vecteezy_studio-empty-background-wall-and-floor-grunge-texture-cement_6277661.jpg');
+    background-size: cover;
+    border: 1px solid white;
+    padding: 15px;
+}
+h1 {
+display: flex;
+justify-content: center;
+color: white;
+font-family: cursive, Helvetica, sans-serif;
+font-size: 50px; 
+}
+.text-color a {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px; 
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+.mikeyyhasmin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+img {
+    border: 5px solid white;
+    border-radius: 10px; 
+  }  
+
+  
+  p {
+    display: flex;
+    color: white;
+    font-family: cursive, Helvetica, sans-serif;
+    font-size: 25px; 
+    display: flex;
+    justify-content: space-around;
+    margin: medium;
+    border: 1px solid white;
+    border-radius: 5px; 
+    padding: 15px;
+  }
+.bees {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 60px;
+}
+.music {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 60px;
+}
+.lastsection h3 {
+  color: white;
+}
+
+.lastsection label {
+  color: white;
+}
+footer {
+  color: white;
+}
